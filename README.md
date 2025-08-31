@@ -1,7 +1,26 @@
 # 3D Face Reconstruction Using Action Units
 ## Team Name: DeepThinkers
 
+현재 우리는 Action Unit
+
+
+
+
+
 ## reference
+
+### DECA
+
+https://arxiv.org/abs/2012.04012
+
+https://github.com/yfeng95/DECA?tab=readme-ov-file
+
+### EMOCA
+
+https://emoca.is.tue.mpg.de/
+
+https://github.com/radekd91/emoca
+
 ### conditional GAN
 
 https://arxiv.org/abs/1411.1784
