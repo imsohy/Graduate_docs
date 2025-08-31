@@ -10,8 +10,16 @@ Team : DeepThinkers
 
 ## 프로젝트 소개
 
+현재 2D 얼굴 이미지를 받아 3D mesh로 재구성하는 분야 연구 중이며, 
 
-## reference
+얼굴 근육의 국소 움직임(Action Unit) 과 조건부 GAN을 활용하여 DECA 기반 모델에서 얼굴의 미세 주름 (detail map)을 복원하는 모델을 구현 중.
+
+간트 차트와 마일스톤에 기반하여 프로젝트를 진행하고 있으며, 
+
+ProgressiveGAN, GANImation 등 다양한 논문에 대해 주마다 리뷰하고, 내부 코드 로직을 class 단위로 구조화하여 공부하였다.
+
+
+## reviewed articles
 
 ### DECA
 
@@ -28,6 +36,10 @@ https://github.com/radekd91/emoca
 ### conditional GAN
 
 https://arxiv.org/abs/1411.1784
+
+### progressive GAN
+
+https://arxiv.org/abs/1710.10196
 
 ### StyleGAN3
 
