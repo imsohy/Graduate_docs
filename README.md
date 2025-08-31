@@ -1,10 +1,7 @@
 # 3D Face Reconstruction Using Action Units
-## Team Name: DeepThinkers
+DeepThinkers
 
-현재 우리는 Action Unit
-
-
-
+## 프로젝트 소개
 
 
 ## reference
