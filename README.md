@@ -1,7 +1,10 @@
 # 3D Face Reconstruction Using Action Units and GAN
-DeepThinkers (장현웅, 나웅재)
 
 2025 광운대학교 컴퓨터정보공학부
+
+Team : DeepThinkers 
+
+팀원 : 장현웅, 나웅재
 
 담당교수: 이혁준 교수
 
