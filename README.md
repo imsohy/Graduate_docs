@@ -2,18 +2,18 @@
 ## Team Name: DeepThinkers
 
 ## reference
-###conditional GAN
+### conditional GAN
 
 https://arxiv.org/abs/1411.1784
 
-###StyleGAN3
+### StyleGAN3
 
 Alias-Free Generative Adversarial Networks (StyleGAN3)
 
 https://arxiv.org/abs/2106.12423
 
 
-###AUFART
+### AUFART
 
 Action Unit-Based 3D Face Reconstruction Using Transformers
 
@@ -25,7 +25,7 @@ A New Method for 3D Face Reconstruction Using Transformers Based on Action Unit 
 [https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003219735
 ](https://www.sciencedirect.com/science/article/pii/S2405959525000499)
 
-###GANimation
+### GANimation
 
 GANimation: Anatomically-aware Facial Animation from a Single Image
 
