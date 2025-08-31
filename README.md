@@ -1,5 +1,9 @@
-# 3D Face Reconstruction Using Action Units
+# 3D Face Reconstruction Using Action Units and GAN(가제)
 DeepThinkers
+
+2025 광운대학교 컴퓨터정보공학부
+
+장현웅, 나웅재
 
 ## 프로젝트 소개
 
