@@ -1,5 +1,5 @@
 # 3D Face Reconstruction 
-Using Action Units and GAN(가제)
+Using Action Units and GAN
 DeepThinkers
 
 2025 광운대학교 컴퓨터정보공학부
